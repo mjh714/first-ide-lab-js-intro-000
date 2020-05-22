@@ -1,1 +1,2 @@
-conosole.log("You are an idiot!")
+conosole.log("Coding is cool");
+console.log("My mom says I'm cool");
